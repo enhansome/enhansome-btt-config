@@ -1,224 +1,232 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": "Forget about function keys, keep your TouchBar sharp.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Android Studio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94777736,
+                "language": null,
+                "last_commit": "2018-11-09T12:05:25Z",
+                "owner": "keyboardsurfer",
+                "repo": "btt-android-studio-config",
+                "stars": 255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IntelliJ",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99982735,
+                "language": null,
+                "last_commit": "2017-08-17T01:44:44Z",
+                "owner": "kikoso",
+                "repo": "btt-intelliJ-config",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SourceTree",
+              "description": "BetterTouchTool TouchBar configuration for SourceTree",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115716651,
+                "language": null,
+                "last_commit": "2017-12-29T11:52:27Z",
+                "owner": "bskim45",
+                "repo": "btt-sourcetree-config",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Appcode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108393255,
+                "language": null,
+                "last_commit": "2017-10-26T10:08:41Z",
+                "owner": "niggeulimann",
+                "repo": "btt-appcode-config",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyCharm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79454279,
+                "language": null,
+                "last_commit": "2017-01-19T14:23:44Z",
+                "owner": "benjefferies",
+                "repo": "bettertouchtool-pycharm",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Developers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google Hangout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107003693,
+                "language": null,
+                "last_commit": "2019-10-28T09:52:05Z",
+                "owner": "jaapjan",
+                "repo": "touchbar-hangouts",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Slack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99887584,
+                "language": null,
+                "last_commit": "2017-08-10T15:54:13Z",
+                "owner": "kikoso",
+                "repo": "btt-slack-config",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Productivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Crypto-Touchbar-App",
+              "description": "A web app to build Apple touch bar elements for crytpo currencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112946359,
+                "language": "JavaScript",
+                "last_commit": "2023-04-19T15:03:24Z",
+                "owner": "chrislennon",
+                "repo": "Crypto-Touchbar-App",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bettertouchtool-crypto",
+              "description": "Crypto stock market prices for your Macbook Pro touch bar!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100451259,
+                "language": null,
+                "last_commit": "2021-10-30T16:06:45Z",
+                "owner": "krunkosaurus",
+                "repo": "bettertouchtool-crypto",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crypto-Touchbar",
+              "description": "A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100485403,
+                "language": "Python",
+                "last_commit": "2019-04-14T09:59:58Z",
+                "owner": "Ryan-Gordon",
+                "repo": "Crypto-Touchbar",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crypto-Touchbar-for-Mac",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103800648,
+                "language": "JavaScript",
+                "last_commit": "2017-09-22T07:19:00Z",
+                "owner": "CryptoTerps",
+                "repo": "Crypto-Touchbar-for-Mac",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EthereumTouchBar",
+              "description": "Scripts to add to BetterTouchTool the coolest ethereum projects and be able to track the prices on your touchbar (https://github.com/ValentinJesse/TouchBar_Bitcoin_Florincoin) - Bitcoin and Florincoin on the MacBook Pro TouchBar",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114362118,
+                "language": null,
+                "last_commit": "2017-12-22T10:42:50Z",
+                "owner": "eduadiez",
+                "repo": "EthereumTouchBar",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "touchbar-cryptocoins",
+              "description": "View BTC, LTC, ETH and NEO on your Macbook Touchbar using the BetterTouchTool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100589771,
+                "language": null,
+                "last_commit": "2017-08-17T10:18:57Z",
+                "owner": "lilythstern",
+                "repo": "touchbar-cryptocoins",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptocurrency"
+        }
+      ],
       "title": "TouchBar"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Android Studio",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-11-09T12:05:25Z",
-            "owner": "keyboardsurfer",
-            "repo": "btt-android-studio-config",
-            "stars": 255
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IntelliJ",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-08-17T01:44:44Z",
-            "owner": "kikoso",
-            "repo": "btt-intelliJ-config",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SourceTree",
-          "description": "BetterTouchTool TouchBar configuration for SourceTree",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-12-29T11:52:27Z",
-            "owner": "bskim45",
-            "repo": "btt-sourcetree-config",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Appcode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-10-26T10:08:41Z",
-            "owner": "niggeulimann",
-            "repo": "btt-appcode-config",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyCharm",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-01-19T14:23:44Z",
-            "owner": "benjefferies",
-            "repo": "bettertouchtool-pycharm",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Developers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Google Hangout",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-10-28T09:52:05Z",
-            "owner": "jaapjan",
-            "repo": "touchbar-hangouts",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Slack",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-08-10T15:54:13Z",
-            "owner": "kikoso",
-            "repo": "btt-slack-config",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Productivity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Crypto-Touchbar-App",
-          "description": "A web app to build Apple touch bar elements for crytpo currencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-04-19T15:03:24Z",
-            "owner": "chrislennon",
-            "repo": "Crypto-Touchbar-App",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bettertouchtool-crypto",
-          "description": "Crypto stock market prices for your Macbook Pro touch bar!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-10-30T16:06:45Z",
-            "owner": "krunkosaurus",
-            "repo": "bettertouchtool-crypto",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Crypto-Touchbar",
-          "description": "A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-04-14T09:59:58Z",
-            "owner": "Ryan-Gordon",
-            "repo": "Crypto-Touchbar",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Crypto-Touchbar-for-Mac",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-09-22T07:19:00Z",
-            "owner": "CryptoTerps",
-            "repo": "Crypto-Touchbar-for-Mac",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EthereumTouchBar",
-          "description": "Scripts to add to BetterTouchTool the coolest ethereum projects and be able to track the prices on your touchbar (https://github.com/ValentinJesse/TouchBar_Bitcoin_Florincoin) - Bitcoin and Florincoin on the MacBook Pro TouchBar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-12-22T10:42:50Z",
-            "owner": "eduadiez",
-            "repo": "EthereumTouchBar",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "touchbar-cryptocoins",
-          "description": "View BTC, LTC, ETH and NEO on your Macbook Touchbar using the BetterTouchTool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-08-17T10:18:57Z",
-            "owner": "lilythstern",
-            "repo": "touchbar-cryptocoins",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Cryptocurrency"
-    },
-    {
-      "description": "Contributions are always welcome! Please read the Contribution Guidelines and Code of Conduct. first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Bumsoo Kim has waived all copyright and related or neighboring rights to this work.\n⬆ Top",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:09:41.100Z",
+    "last_updated": "2026-08-19T12:17:41.545Z",
     "original_repository": "bskim45/awesome-btt-config",
+    "original_repository_id": 115637461,
     "original_repository_sha": "c1111d00a791822c196e3c3c57c5535691dd84cf",
     "enhanced_repository": "enhansome/enhansome-btt-config",
     "enhanced_repository_description": null,
