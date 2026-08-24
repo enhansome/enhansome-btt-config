@@ -218,13 +218,77 @@
           "description": null,
           "node_type": "group",
           "title": "Cryptocurrency"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Touch Bar iStats",
+              "description": "Show CPU/GPU/MEM temperature on Touch Bar with BetterTouchTool!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110092764,
+                "language": null,
+                "last_commit": "2019-07-15T18:18:40Z",
+                "owner": "marekkaczkowski",
+                "repo": "Touch-Bar-iStats",
+                "stars": 154
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utility"
         }
       ],
       "title": "TouchBar"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "btt-productivity-shortcuts-file",
+          "description": "Productive keyboard shortcuts to use with BetterTouchTool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26232790,
+            "language": null,
+            "last_commit": "2014-12-03T17:57:41Z",
+            "owner": "curtjen",
+            "repo": "btt-productivity-shortcuts-file",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Shortcuts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "huekey",
+          "description": "Control Philips Hue lights with BetterTouchTool (or any script launcher)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11565440,
+            "language": "Python",
+            "last_commit": "2013-07-22T02:37:41Z",
+            "owner": "bradykent",
+            "repo": "huekey",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:03:40.400Z",
+    "last_updated": "2026-08-24T14:48:14.803Z",
     "original_repository": "bskim45/awesome-btt-config",
     "original_repository_id": 115637461,
     "original_repository_sha": "c1111d00a791822c196e3c3c57c5535691dd84cf",
