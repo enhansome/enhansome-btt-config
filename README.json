@@ -288,9 +288,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:17:38.079Z",
-    "original_repository": "bskim45/awesome-btt-config",
-    "original_repository_id": 115637461,
+    "last_updated": "2026-08-27T11:27:23.713Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 115637461,
+      "language": null,
+      "last_commit": "2018-02-11T15:26:13Z",
+      "owner": "bskim45",
+      "repo": "awesome-btt-config",
+      "stars": 55
+    },
     "original_repository_sha": "c1111d00a791822c196e3c3c57c5535691dd84cf",
     "enhanced_repository": "enhansome/enhansome-btt-config",
     "enhanced_repository_description": null,
