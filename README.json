@@ -18,7 +18,8 @@
                 "owner": "keyboardsurfer",
                 "repo": "btt-android-studio-config",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "kikoso",
                 "repo": "btt-intelliJ-config",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "bskim45",
                 "repo": "btt-sourcetree-config",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "niggeulimann",
                 "repo": "btt-appcode-config",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "benjefferies",
                 "repo": "bettertouchtool-pycharm",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "jaapjan",
                 "repo": "touchbar-hangouts",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "kikoso",
                 "repo": "btt-slack-config",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             }
           ],
           "description": null,
@@ -137,7 +144,8 @@
                 "owner": "chrislennon",
                 "repo": "Crypto-Touchbar-App",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "krunkosaurus",
                 "repo": "bettertouchtool-crypto",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "Ryan-Gordon",
                 "repo": "Crypto-Touchbar",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "CryptoTerps",
                 "repo": "Crypto-Touchbar-for-Mac",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "eduadiez",
                 "repo": "EthereumTouchBar",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "lilythstern",
                 "repo": "touchbar-cryptocoins",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             }
           ],
           "description": null,
@@ -234,7 +247,8 @@
                 "owner": "marekkaczkowski",
                 "repo": "Touch-Bar-iStats",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T04:55:23.310Z"
             }
           ],
           "description": null,
@@ -260,7 +274,8 @@
             "owner": "curtjen",
             "repo": "btt-productivity-shortcuts-file",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T04:55:23.310Z"
         }
       ],
       "title": "Shortcuts"
@@ -281,14 +296,15 @@
             "owner": "bradykent",
             "repo": "huekey",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T04:55:23.310Z"
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:23.713Z",
+    "last_updated": "2026-08-28T04:55:23.310Z",
     "original_repository_info": {
       "archived": false,
       "id": 115637461,
