@@ -27,7 +27,7 @@
 
 ### Cryptocurrency
 
-* [Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) ⭐ 155 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-19 - A web app to build Apple touch bar elements for crytpo currencies.
+* [Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) ⭐ 156 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-19 - A web app to build Apple touch bar elements for crytpo currencies.
 * [bettertouchtool-crypto](https://github.com/krunkosaurus/bettertouchtool-crypto) ⭐ 110 | 🐛 13 | 📅 2021-10-30 - Crypto stock market prices for your Macbook Pro touch bar!
 * [Crypto-Touchbar](https://github.com/Ryan-Gordon/Crypto-Touchbar) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2019-04-14 - A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.
 * [Crypto-Touchbar-for-Mac](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac) ⭐ 61 | 🐛 0 | 🌐 JavaScript | 📅 2017-09-22
@@ -63,4 +63,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
