@@ -38,7 +38,7 @@
 
 ### Utility
 
-* [Touch Bar iStats](https://github.com/marekkaczkowski/Touch-Bar-iStats) ⭐ 154 | 🐛 1 | 📅 2019-07-15 - Show CPU/GPU/MEM temperature on Touch Bar with BetterTouchTool!
+* [Touch Bar iStats](https://github.com/marekkaczkowski/Touch-Bar-iStats) ⭐ 155 | 🐛 1 | 📅 2019-07-15 - Show CPU/GPU/MEM temperature on Touch Bar with BetterTouchTool!
 
 ## Shortcuts
 
@@ -63,4 +63,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
