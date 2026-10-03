@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Android Studio",
-              "description": null,
+              "description": "keyboardsurfer/btt-android-studio-config",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "IntelliJ",
-              "description": null,
+              "description": "kikoso/btt-intelliJ-config",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -77,7 +77,7 @@
             {
               "node_type": "item",
               "title": "Appcode",
-              "description": null,
+              "description": "niggeulimann/btt-appcode-config",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -98,7 +98,7 @@
             {
               "node_type": "item",
               "title": "PyCharm",
-              "description": null,
+              "description": "benjefferies/bettertouchtool-pycharm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -126,7 +126,7 @@
             {
               "node_type": "item",
               "title": "Google Hangout",
-              "description": null,
+              "description": "jaapjan/touchbar-hangouts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
             {
               "node_type": "item",
               "title": "Slack",
-              "description": null,
+              "description": "kikoso/btt-slack-config",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -259,7 +259,7 @@
             {
               "node_type": "item",
               "title": "Crypto-Touchbar-for-Mac",
-              "description": null,
+              "description": "CryptoTerps/Crypto-Touchbar-for-Mac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:01:28.450Z",
+    "last_updated": "2026-10-03T04:34:19.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "An curated list of awesome BetterTouchTool configs.",
