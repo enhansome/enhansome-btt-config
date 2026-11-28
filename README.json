@@ -197,7 +197,7 @@
                 "open_issues": 9,
                 "owner": "chrislennon",
                 "repo": "Crypto-Touchbar-App",
-                "stars": 156,
+                "stars": 155,
                 "topics": [
                   "bettertouchtool",
                   "bitcoin",
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:18:34.124Z",
+    "last_updated": "2026-11-28T02:58:28.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "An curated list of awesome BetterTouchTool configs.",
